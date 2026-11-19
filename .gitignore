@@ -1,0 +1,15 @@
+# Go compiled binaries
+*.exe
+*.out
+*.test
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+
+# Compiled Go executables
+hello
+practical
